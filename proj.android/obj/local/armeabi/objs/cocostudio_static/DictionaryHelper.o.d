@@ -1,0 +1,95 @@
+obj/local/armeabi/objs/cocostudio_static/DictionaryHelper.o: \
+ C:\cocos2dxProjects\Game\cocos2d\cocos/editor-support/cocostudio/DictionaryHelper.cpp \
+ C:\cocos2dxProjects\Game\cocos2d\cocos/./platform/CCPlatformMacros.h \
+ C:\cocos2dxProjects\Game\cocos2d\cocos/./base/ccConfig.h \
+ C:\cocos2dxProjects\Game\cocos2d\cocos/./platform/CCPlatformConfig.h \
+ C:\cocos2dxProjects\Game\cocos2d\cocos/./platform/CCPlatformDefine.h \
+ C:\cocos2dxProjects\Game\cocos2d\cocos/./platform/android/CCPlatformDefine-android.h \
+ C:/ndk/android-ndk-r10c/platforms/android-19/arch-arm/usr/include/android/log.h \
+ C:\cocos2dxProjects\Game\cocos2d\cocos/./editor-support/cocostudio/DictionaryHelper.h \
+ C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/document.h \
+ C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/reader.h \
+ C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/rapidjson.h \
+ C:/ndk/android-ndk-r10c/sources/cxx-stl/gnu-libstdc++/4.8/include/cstdlib \
+ C:/ndk/android-ndk-r10c/sources/cxx-stl/gnu-libstdc++/4.8/include/cstring \
+ C:/ndk/android-ndk-r10c/platforms/android-19/arch-arm/usr/include/inttypes.h \
+ C:/ndk/android-ndk-r10c/sources/cxx-stl/gnu-libstdc++/4.8/include/cassert \
+ C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/allocators.h \
+ C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/encodings.h \
+ C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/internal/meta.h \
+ C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/internal/../rapidjson.h \
+ C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/internal/stack.h \
+ C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/internal/strtod.h \
+ C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/internal/ieee754.h \
+ C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/internal/biginteger.h \
+ C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/internal/diyfp.h \
+ C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/internal/pow10.h \
+ C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/error/error.h \
+ C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/error/../rapidjson.h \
+ C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/internal/strfunc.h \
+ C:/ndk/android-ndk-r10c/sources/cxx-stl/gnu-libstdc++/4.8/include/new \
+ C:/ndk/android-ndk-r10c/sources/cxx-stl/gnu-libstdc++/4.8/include/iterator \
+ C:/ndk/android-ndk-r10c/sources/cxx-stl/gnu-libstdc++/4.8/include/utility \
+ C:\cocos2dxProjects\Game\cocos2d\cocos/./editor-support/cocostudio/CocosStudioExport.h
+
+C:\cocos2dxProjects\Game\cocos2d\cocos/./platform/CCPlatformMacros.h:
+
+C:\cocos2dxProjects\Game\cocos2d\cocos/./base/ccConfig.h:
+
+C:\cocos2dxProjects\Game\cocos2d\cocos/./platform/CCPlatformConfig.h:
+
+C:\cocos2dxProjects\Game\cocos2d\cocos/./platform/CCPlatformDefine.h:
+
+C:\cocos2dxProjects\Game\cocos2d\cocos/./platform/android/CCPlatformDefine-android.h:
+
+C:/ndk/android-ndk-r10c/platforms/android-19/arch-arm/usr/include/android/log.h:
+
+C:\cocos2dxProjects\Game\cocos2d\cocos/./editor-support/cocostudio/DictionaryHelper.h:
+
+C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/document.h:
+
+C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/reader.h:
+
+C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/rapidjson.h:
+
+C:/ndk/android-ndk-r10c/sources/cxx-stl/gnu-libstdc++/4.8/include/cstdlib:
+
+C:/ndk/android-ndk-r10c/sources/cxx-stl/gnu-libstdc++/4.8/include/cstring:
+
+C:/ndk/android-ndk-r10c/platforms/android-19/arch-arm/usr/include/inttypes.h:
+
+C:/ndk/android-ndk-r10c/sources/cxx-stl/gnu-libstdc++/4.8/include/cassert:
+
+C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/allocators.h:
+
+C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/encodings.h:
+
+C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/internal/meta.h:
+
+C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/internal/../rapidjson.h:
+
+C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/internal/stack.h:
+
+C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/internal/strtod.h:
+
+C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/internal/ieee754.h:
+
+C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/internal/biginteger.h:
+
+C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/internal/diyfp.h:
+
+C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/internal/pow10.h:
+
+C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/error/error.h:
+
+C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/error/../rapidjson.h:
+
+C:\cocos2dxProjects\Game\cocos2d\external/flatbuffers/../json/internal/strfunc.h:
+
+C:/ndk/android-ndk-r10c/sources/cxx-stl/gnu-libstdc++/4.8/include/new:
+
+C:/ndk/android-ndk-r10c/sources/cxx-stl/gnu-libstdc++/4.8/include/iterator:
+
+C:/ndk/android-ndk-r10c/sources/cxx-stl/gnu-libstdc++/4.8/include/utility:
+
+C:\cocos2dxProjects\Game\cocos2d\cocos/./editor-support/cocostudio/CocosStudioExport.h:
